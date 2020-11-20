@@ -34,7 +34,6 @@
 
 </div>
 
-<br />
 
 ### Languages and Tools:
 
