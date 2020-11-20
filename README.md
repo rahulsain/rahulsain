@@ -28,7 +28,11 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Rahul Sain Spotify Playing" width="350" />](https://open.spotify.com/user/31qxydcf3nsqh65nafr33cie65ci)
+<div align="center">
+  
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing&theme=dark" alt="Rahul Sain Spotify Playing" width="350" />](https://open.spotify.com/user/31qxydcf3nsqh65nafr33cie65ci)
+
+</div>
 
 <br />
 
