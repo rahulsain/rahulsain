@@ -50,10 +50,6 @@
 <a href="https://github.com/rahulsain3000">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsain3000&theme=dark&hide_langs_below=1" height="220px"/>
 </a>
-  </div>
-<br>
-
-<div align="center">
   
 <a href="https://github.com/rahulsain3000">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulsain3000&show_icons=true&theme=dark&line_height=27" alt="Rahul's GitHub Stats" height="220px" />
