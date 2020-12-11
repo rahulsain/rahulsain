@@ -24,17 +24,6 @@
 - ⚡ Fun fact: I love music
 - ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulsain.rahulsain)
 
-<br>
-
-### Spotify Playing 🎧
-
-<div align="center">
-  
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Rahul Sain Spotify Playing" width="350" />](https://open.spotify.com/user/31qxydcf3nsqh65nafr33cie65ci)
-
-</div>
-
-
 ### Languages and Tools:
 
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
