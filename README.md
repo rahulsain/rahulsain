@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/rahulsain/">
   <img align="left" alt="Rahul's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/rahulsain3000">
+<a href="https://github.com/rahulsain">
   <img align="left" alt="Rahul's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/_rahulsain/">
@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Learn Kotlin in-depth and make publish an app on the play store
 - ⚡ Fun fact: I love music
-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulsain3000.rahulsain3000)
+- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulsain.rahulsain)
 
 <br>
 
@@ -53,23 +53,23 @@
 
 <div align="center">
   
-<a href="https://github.com/rahulsain3000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsain3000&theme=dark&hide_langs_below=1" height="220px"/>
+<a href="https://github.com/rahulsain">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsain&theme=dark&hide_langs_below=1" height="220px"/>
 </a>
   
-<a href="https://github.com/rahulsain3000">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulsain3000&show_icons=true&theme=dark&line_height=27" alt="Rahul's GitHub Stats" height="220px" />
+<a href="https://github.com/rahulsain">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulsain&show_icons=true&theme=dark&line_height=27" alt="Rahul's GitHub Stats" height="220px" />
 </a>
 
 </div>
 
 <div align="center">
   
-<a href="https://github.com/rahulsain3000/PersonalTODOList">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsain3000&repo=PersonalTODOList&theme=dark" />
+<a href="https://github.com/rahulsain/PersonalTODOList">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsain&repo=PersonalTODOList&theme=dark" />
 </a>
-<a href="https://github.com/rahulsain3000/CPP-DSA">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsain3000&repo=CPP-DSA&theme=dark" />
+<a href="https://github.com/rahulsain/CPP-DSA">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsain&repo=CPP-DSA&theme=dark" />
 </a>
 
 </div>
@@ -81,4 +81,3 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-
