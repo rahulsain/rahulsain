@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning C++/JAVA
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Learn Kotlin in-depth and make publish an app on the play store
+- 🥅 2021 Goals: Learn Kotlin in-depth and publish an app on play store
 - ⚡ Fun fact: I love music
 - ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulsain.rahulsain)
 
