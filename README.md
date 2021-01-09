@@ -20,8 +20,8 @@
 
 - 🌱 I’m currently learning C++/JAVA
 - 👯 I’m looking to collaborate with other content creators or some project collaboration
-- 🥅 2021 Goals: Learn Kotlin in-depth and publish an app on play store
-- ⚡ Fun fact: I love music
+- 🥅 2022 Goals: Publish a Flutter app on play store, learn ML and Python.
+- ⚡ Fun fact: I love music especially lost frequencies❤️
 - ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulsain.rahulsain)
 
 ### Languages and Tools:
