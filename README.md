@@ -19,7 +19,7 @@
 ## I'm a Student, and Developer!!
 
 - 🌱 I’m currently learning C++/JAVA
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other content creators or some project collaboration
 - 🥅 2021 Goals: Learn Kotlin in-depth and publish an app on play store
 - ⚡ Fun fact: I love music
 - ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulsain.rahulsain)
