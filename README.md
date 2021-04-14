@@ -18,8 +18,8 @@
 
 ## I'm a Student, and Developer!!
 
-- 🌱 I’m currently learning C++/JAVA
-- 👯 I’m looking to collaborate with other content creators or some project collaboration
+- 🌱 I’m currently learning Kotlin
+- 👯 I’m looking to collaborate with other content creators or project collaboration
 - 🥅 2022 Goals: Publish a Flutter app on play store, learn ML and Python.
 - ⚡ Fun fact: I love music especially lost frequencies❤️
 - ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulsain.rahulsain)
