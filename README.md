@@ -1,16 +1,13 @@
 ### Hi there, I'm Rahul Sain 👋
 
 <a href="https://twitter.com/_rahulsain">
-  <img align="left" alt="Rahul's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Rahul's Twitter" width="22px" src="https://www.freeiconspng.com/thumbs/twitter-icon/twitter-icon--flat-gradient-social-iconset--limav-2.png" />
 </a>
 <a href="https://www.linkedin.com/in/rahulsain/">
-  <img align="left" alt="Rahul's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Rahul's Linkdein" width="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" />
 </a>
 <a href="https://github.com/rahulsain">
-  <img align="left" alt="Rahul's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/_rahulsain/">
-  <img align="left" alt="Rahul's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Rahul's Github" width="22px" src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-512.png" />
 </a>
 
 <br/>
@@ -29,12 +26,15 @@
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" width="26px" src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-512.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+<img align="left" width="26px" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" />
+<img align="left" width="26px" src="https://image.flaticon.com/icons/png/512/214/214496.png" />
+<img align="left" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/gitlab-282507.png" />
 
 <br>
 <br />
