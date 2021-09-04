@@ -54,8 +54,8 @@
 
 <div align="center">
   
-<a href="https://github.com/rahulsain/PersonalTODOList">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsain&repo=PersonalTODOList&theme=dark" />
+<a href="https://github.com/rahulsain/SharedNotes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsain&repo=SharedNote&theme=dark" />
 </a>
 <a href="https://github.com/rahulsain/CPP-DSA">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsain&repo=CPP-DSA&theme=dark" />
