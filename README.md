@@ -55,7 +55,7 @@
 <div align="center">
   
 <a href="https://github.com/rahulsain/SharedNotes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsain&repo=SharedNote&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsain&repo=SharedNotes&theme=dark" />
 </a>
 <a href="https://github.com/rahulsain/CPP-DSA">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsain&repo=CPP-DSA&theme=dark" />
