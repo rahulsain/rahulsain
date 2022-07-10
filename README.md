@@ -13,6 +13,8 @@
 <br/>
 <br/>
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/rahulsain)](https://leetcode.com/rahulsain)
+
 ## I'm a Student, and Developer!!
 
 - 🌱 I’m currently learning Kotlin
