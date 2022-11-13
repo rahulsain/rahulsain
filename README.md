@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/rahulsain?ext=contest)](https://leetcode.com/rahulsain)
+<!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/rahulsain?ext=contest)](https://leetcode.com/rahulsain) -->
 
 ## I'm a Student, and Developer!!
 
