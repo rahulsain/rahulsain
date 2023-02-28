@@ -17,9 +17,9 @@
 
 ## I'm a Student, and Developer!!
 
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m have build an app which has 100K+ Organic Installs on Google PlayStore within 6 months of launch. Recognised by Google Developer Handle itself.
 - 👯 I’m looking to collaborate with other content creators or project collaboration
-- 🥅 2022 Goals: Publish a Flutter app on play store, learn ML and Python.
+- 🥅 2023 Goals: Learn New Methodologies via Freelance
 - ⚡ Fun fact: I love music especially lost frequencies❤️
 - ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulsain.rahulsain)
 
