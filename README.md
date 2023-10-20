@@ -61,12 +61,12 @@ graph TD
   %% Featured Achievements
   feat[Featured]
   feat -->|Official Blog Website| Google-Developers
-  feat -->|AndroidSpotlight| Google India Developer Student Club Regional
+  feat -->|AndroidSpotlight| GSDC-India
 
   %% Mentorship Roles
   mentor[Mentorship]
-  mentor -->|GDSC Lead| GDP-Lead (Android Dev)
-  mentor -->|HacktoberFest 2020| Mainter & Mentor
+  mentor -->|GDSC Lead| GDSC-Lead
+  mentor -->|HacktoberFest 2020| Mainter-Mentor
 
   %% Speaking Engagements
   speak[Speaking Engagements]
