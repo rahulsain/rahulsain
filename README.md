@@ -29,7 +29,7 @@
     section Freelancing
     Full Stack Freelancer :a1, 2023-03-01, 2023-10-20
     section Ingenium Education
-    Software Developer Engineer Intern :a2, 2023-02-25, 2023-05-14
+    SDE Intern :a2, 2023-02-25, 2023-05-14
     Android Developer Intern :a3, 2021-09-14, 2022-09-30
     section Coding Ninjas
     Technical Content Writer Intern :a4, 2022-02-01, 2023-03-30
