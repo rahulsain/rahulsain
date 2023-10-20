@@ -60,8 +60,8 @@
 graph TD
   %% Featured Achievements
   feat[Featured]
-  feat -->|Official Blog & Website| Google-Developers
-  feat -->|AndroidSpotlight| Google India's Developer Club Regional
+  feat -->|Official Blog Website| Google-Developers
+  feat -->|AndroidSpotlight| Google India Developer Student Club Regional
 
   %% Mentorship Roles
   mentor[Mentorship]
