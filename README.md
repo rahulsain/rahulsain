@@ -24,15 +24,18 @@
 ## Work Experience
 
 ```mermaid
-  gantt
-    dateFormat  YYYY-MM-DD
-    section Freelancing
-    Full Stack Freelancer :a1, 2023-03-01, 2023-10-20
-    section Ingenium Education
-    SDE Intern :a2, 2023-02-25, 2023-05-14
-    Android Developer Intern :a3, 2021-09-14, 2022-09-30
-    section Coding Ninjas
-    Technical Content Writer Intern :a4, 2022-02-01, 2023-03-30
+gantt
+  dateFormat  YYYY-MM-DD
+
+  section Freelancing
+  Full Stack Freelancer :a1, 2023-03-01, 2023-10-20
+
+  section Ingenium Education
+  SDE Intern :a2, 2023-02-25, 2023-05-14
+  Android Developer Intern :a3, 2021-09-14, 2022-09-30
+
+  section Coding Ninjas
+  Technical Content Writer Intern :a4, 2022-02-01, 2023-03-30
 
 ```
 
@@ -40,18 +43,20 @@
 
 ## My Hackathon Journey
 ```mermaid
-  journey
-    section IEEE Hackathon 2.0
-      800+ Competitors: 3: You
-      Achieve Top 8 Global Ranking: 6: You
-    section Smart India Hackathon 2022
-      India's Largest Hackathon: 3: You
-      600000+ Participants: 3: You
-      Achieve Top 15 District Ranking: 7: You
- section Ingenious Hackathon 2.0
-      1500+ Participants: 3: You
-      Appointed as Mobile Developer Mentor: 4: You
-      Manage more than 25 teams: 5: You
+journey
+  section IEEE Hackathon 2.0
+  800+ Competitors: 3: You
+  Achieve Top 8 Global Ranking: 4: You
+
+  section Smart India Hackathon 2022
+  India's Largest Hackathon: 3: You
+  600000+ Participants: 4: You
+  Achieve Top 15 District Ranking: 5: You
+
+  section Ingenious Hackathon 2.0
+  1500+ Participants: 3: You
+  Appointed as Mobile Developer Mentor: 4: You
+  Manage more than 25 teams: 5: You
 ```
 
 ## Some other accomplishments
@@ -69,7 +74,7 @@ graph TD
 
   %% Speaking Engagements
   speak[Speaking Engagements]
-  speak -->|GDSC Compose Camp| Kotlin-Facilitor
+  speak -->|GDSC Compose Camp| Kotlin-Facilitator
   speak -->|#define Event| Calculator-App
 
 ```
