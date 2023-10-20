@@ -27,13 +27,12 @@
   gantt
     dateFormat  YYYY-MM-DD
     section Freelancing
-    Full Stack Developer at Freelancing :a1, 2023-03-01, 2023-10-20
+    Full Stack Freelancer :a1, 2023-03-01, 2023-10-20
     section Ingenium Education
-    Software Developer Engineer Intern at Ingenium Education :a2, 2023-02-25, 2023-05-14
-    section Ingenium Education
-    Android Developer Intern at Ingenium Education :a3, 2021-09-14, 2022-09-30
+    Software Developer Engineer Intern :a2, 2023-02-25, 2023-05-14
+    Android Developer Intern :a3, 2021-09-14, 2022-09-30
     section Coding Ninjas
-    Technical Content Writer Intern at Coding Ninjas :a4, 2022-02-01, 2023-03-30
+    Technical Content Writer Intern :a4, 2022-02-01, 2023-03-30
 
 ```
 
@@ -48,7 +47,7 @@
     section Smart India Hackathon 2022
       India's Largest Hackathon: 3: You
       600000+ Participants: 3: You
-      Achieve Top 15 District Level Ranking: 7: You
+      Achieve Top 15 District Ranking: 7: You
  section Ingenious Hackathon 2.0
       1500+ Participants: 3: You
       Appointed as Mobile Developer Mentor: 4: You
@@ -65,13 +64,13 @@ graph TD
 
   %% Mentorship Roles
   mentor[Mentorship]
-  mentor -->|GDSC Lead| GDSC-Lead
+  mentor -->|GDSC Lead| GDSC-Lead-Android
   mentor -->|HacktoberFest 2020| Mainter-Mentor
 
   %% Speaking Engagements
   speak[Speaking Engagements]
   speak -->|GDSC Compose Camp| Kotlin-Facilitor
-  speak -->|#define Event| App-Building-Excercise
+  speak -->|#define Event| Calculator-App
 
 ```
 
